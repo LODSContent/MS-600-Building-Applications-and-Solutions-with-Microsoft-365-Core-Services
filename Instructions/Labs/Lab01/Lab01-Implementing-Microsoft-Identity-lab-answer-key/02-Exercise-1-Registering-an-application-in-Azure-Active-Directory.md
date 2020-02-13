@@ -1,4 +1,4 @@
-﻿# Exercise 1: Registering an application in Azure Active Directory
+# Exercise 1: Registering an application in Azure Active Directory
 
 ## Task 1: Open the Azure portal
 
@@ -10,7 +10,11 @@
 
 1. Select **Next**.
 
-1. Enter the **password** for your Microsoft account.
+
+    dvxvdvvx
+
+
+1. Enter the **@lab.LabInstance.Id** for your Microsoft account.
 
 1. Select **Sign in**.
 
@@ -153,4 +157,3 @@ In this task, you will switch Active Directory tenants and then continue with re
 ## Review
 
 In this exercise, you learned how to create a new Active Directory organization, create a new user, switch directories, register and brand the application.
-
